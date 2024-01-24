@@ -1,5 +1,9 @@
 # data-analytics-with-powerBi
 
+![Capture](https://github.com/Aydultimate/data-analytics-with-powerBi/assets/79028131/39375ba5-6282-4afc-88ef-298c31d86d63)
+
+![Capture2](https://github.com/Aydultimate/data-analytics-with-powerBi/assets/79028131/682c66d0-2893-4d52-b322-801fcc14490c)
+
 
 # Data Used
 
